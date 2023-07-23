@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geetharavi
 - 👀 I’m interested in Software development  
-- 🌱 I’m currently learning pursuing Computer Science Engineering at SKCET
+- 🌱 I’m currently pursuing Computer Science Engineering at SKCET
   
 
 <!---
